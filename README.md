@@ -2,7 +2,7 @@
 
 This is a simple React application for a DIY (Do It Yourself) shop. It allows users to browse and purchase various DIY items such as beads, charms, figurines, chain pendants, and bracelets. The project is structured using React Router for navigation and consists of components for different sections of the app.
 
-## How to Use
+## Getting Started
 
 1. Clone the repository.
 
@@ -11,10 +11,18 @@ This is a simple React application for a DIY (Do It Yourself) shop. It allows us
 3. Run the application with 'npm start'.
 
 4. Open the browser and navigate to 'http://localhost:3000' to view 
-   the DIY shop.
+the DIY shop.
+
+## Usage
+
+* Click on the navigation links (Shop, DIY, Contact) to explore different sections of the app.
+
+* Use the category buttons to filter products based on your interests (beads, charms, figurines, chain pendants, bracelets).
+
+* Explore the product cards to view details such as product name, price, and images.
+
 
 ## Project Structure
-
 ### App Component (App.js)
 
 The main component that sets up the navigation using React Router. It includes links to the Shop, DIY, and Contact pages. The Routes component defines the routes for each page.
