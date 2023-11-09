@@ -1,0 +1,60 @@
+nav {
+  background: #cfd8dc;
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  font-weight: bolder;
+}
+
+.link {
+  padding: 5px;
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+}
+
+.products {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.product-card {
+  margin-top: 30px;
+}
+
+body {
+  background-color: #f6f6f6;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+}
+
+.cont {
+  display: flex;
+  justify-content: center;
+}
+
+.back {
+  text-align: center;
+  background-color: #f4eddd; 
+  padding: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+}
+
+.change {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border: none;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+  cursor: pointer;
+}
+
+h3, h4 {
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+}
+
+button {
+  margin: 10px;
+}
